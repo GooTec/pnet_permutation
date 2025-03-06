@@ -5,7 +5,7 @@
 docker pull ghcr.io/csbg/pnet-container:1.0.0
 ```
 
-## Permutation Experiment
+## Gene Permutation
 ```bash
 #!/bin/bash
 
